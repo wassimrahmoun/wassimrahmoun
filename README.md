@@ -1,3 +1,7 @@
+# 😉 A Little insight about me 
+A young 21 years old junior web developer , computer science student , AI specialist and Netowrking enthusiast.
+Welcome to my profile.
+
 ## 💻 Tech Stack
 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
