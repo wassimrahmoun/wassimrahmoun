@@ -1,5 +1,5 @@
 ## 🏠 Welcome
-Hello World , 
+Hello World, 
 
 I'm a young 21 years old Junior **Web Developer** , **Computer Science Student** , **AI Specialist** and **Netowrking Enthusiast**.
 
