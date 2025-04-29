@@ -17,5 +17,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=wassimrahmoun&theme=react&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wassimrahmoun&theme=react&hide_border=false&include_all_commits=false&count_private=true)
+| GitHub Streak | Top Languages |
+|---------------|---------------|
+| <img src="https://nirzak-streak-stats.vercel.app/?user=wassimrahmoun&theme=react&hide_border=false" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassimrahmoun&theme=react&hide_border=false&include_all_commits=false&count_private=true" height="200"/> |
+
