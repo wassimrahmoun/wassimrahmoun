@@ -1,5 +1,7 @@
-# 😉 A Little insight about me 
+# 🏠 A Little insight about me 
 A young 21 years old junior web developer , computer science student , AI specialist and Netowrking enthusiast.
+
+
 Welcome to my profile.
 
 ## 💻 Tech Stack
