@@ -1,5 +1,5 @@
-# 🏠 Welcome
-I'm a young 21 years old junior web developer , computer science student , AI specialist and Netowrking enthusiast.
+## 🏠 Welcome
+I'm a young 21 years old Junior **Web Developer** , **Computer Science Student** , **AI Specialist** and **Netowrking Enthusiast**.
 
 
 Grab a cup of tea and have fun 😉
