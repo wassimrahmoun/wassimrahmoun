@@ -1,8 +1,8 @@
 # 🏠 A Little insight about me 
-A young 21 years old junior web developer , computer science student , AI specialist and Netowrking enthusiast.
+I'm a young 21 years old junior web developer , computer science student , AI specialist and Netowrking enthusiast.
 
 
-Welcome to my profile.
+Get comfortable 😉.
 
 ## 💻 Tech Stack
 
